@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WanderDemo</string>
+    <string name="noNetwork">Network disconnected</string>
+    <string name="badNetwork">Oops! Unable to reach servers</string>
+    <string name="home">Home</string>
+    <string name="hint_notes">Notes</string>
+    <string name="btn_save">Save</string>
+    <string name="validate_text">Please enter text</string>
+
+</resources>
